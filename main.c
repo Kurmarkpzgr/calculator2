@@ -32,7 +32,9 @@ int main(int argc, char* argv[]){
     break;
   }
 
-  printf("result is : %d.\n",result);
+  printf("결과는 %d 입니다.\n",result);
+
+  return 0;
 }
 int add(int number1, int number2){
   /*To do*/
