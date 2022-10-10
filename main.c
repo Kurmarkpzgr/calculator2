@@ -6,10 +6,10 @@ int div<int, int>
 int multi<int, int>
 
 int main(int argc, char* argv[]){
-  int a, b, c;
+  int number1, number2, result;
   char operator;
 
-  printf("please enter a expression : ");
+  printf("please enter a expression :");
   scanf("%d %c %d", &number1 &operator, &number2);
 
   switch(operator){
