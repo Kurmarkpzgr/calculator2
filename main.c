@@ -32,6 +32,7 @@ int main(int argc, char* argv[]){
     break;
   }
 
+//1
   printf("result is : %d.\n",result);
 }
 int add(int number1, int number2){
