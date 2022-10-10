@@ -35,8 +35,8 @@ int main(int argc, char* argv[]){
 //1
   printf("result is : %d.\n",result);
 }
+//2
 int add(int number1, int number2){
-  /*To do*/
   return number1+number2;
 }
 int sub(int number1, int number2){
