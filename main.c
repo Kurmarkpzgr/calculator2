@@ -6,7 +6,7 @@ int div<int, int>
 int multi<int, int>
 
 int main(int argc, char* argv[]){
-  int number1, number2, result;
+  int a, b, c;
   char operator;
 
   printf("please enter a expression : ");
